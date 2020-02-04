@@ -1,3 +1,4 @@
+
 # Deepak Sithu
 ## Junior Data Analyst
 Irvine, CA 92620</br>
@@ -11,10 +12,6 @@ Enthusiastic data analyst graduate eager to contribute to team success through h
 ### Education
 **Udacity** - *Data Analyst Nanodegree*</br>
 MAY 2019 - NOVEMBER 2019</br>
-* Analyze A/B Test Results Project - Use probability, a/b testing, and regression analysis using the NumPy, pandas, Matplotlib, StatsModels, and SciPy libraries
-* Communicate Data Findings Project - large dataset is cleaned and then analyzed using univariate, bivariate, and multivariate visualizations
-* Twitter Archive Analysis Project - gather, clean, and analyze several datasets involving use of the Twitter API</br>
-
 **Udacity** - *Programming for Data Science Nanodegree*</br>
 FEBRUARY 2019 - MAY 2019</br>
 **Udacity** - *Intro to Programming Nanodegree*</br>
@@ -22,6 +19,12 @@ NOVEMBER 2018 - FEBRUARY 2019</br>
 **Chapman University, Orange, CA** - *Political Science, Economics, BA - 3.9 GPA*</br>
 AUGUST 2012 - MAY 2014
 ### Experience
+**Udacity Data Science Course Projects** - *Student*</br>
+MAY 2019 - NOVEMBER 2019
+* Analyze A/B Test Results Project - statistical analysis including probability, a/b testing, and regressions using the NumPy, pandas, Matplotlib, StatsModels, and SciPy libraries
+* Communicate Data Findings Project - large dataset is cleaned and then relationships between variables are analyzed using univariate, bivariate, and multivariate visualization techniques
+* Twitter Archive Analysis Project - several datasets are gathered, cleaned, and analyzed, making use of the Twitter API
+
 **Keystone Pacific Property Management LLC, Irvine, CA** - *Accounts Receivable Associate*</br>
 SEPTEMBER 2016 - NOVEMBER 2018
 * Completed all major A/R functions including billing, delinquencies, payment processing, and customer service for 46 associations averaging 215 units each
