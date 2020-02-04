@@ -11,6 +11,10 @@ Enthusiastic data analyst graduate eager to contribute to team success through h
 ### Education
 **Udacity** - *Data Analyst Nanodegree*</br>
 MAY 2019 - NOVEMBER 2019</br>
+* Analyze A/B Test Results Project - Use probability, a/b testing, and regression analysis using the NumPy, pandas, Matplotlib, StatsModels, and SciPy libraries
+* Communicate Data Findings Project - large dataset is cleaned and then analyzed using univariate, bivariate, and multivariate visualizations
+* Twitter Archive Analysis Project - gather, clean, and analyze several datasets involving use of the Twitter API</br>
+
 **Udacity** - *Programming for Data Science Nanodegree*</br>
 FEBRUARY 2019 - MAY 2019</br>
 **Udacity** - *Intro to Programming Nanodegree*</br>
