@@ -9,6 +9,11 @@ github.com/deepaksithu</br>
 
 ### Objective
 Enthusiastic data analyst graduate eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. Passionate about working with data and learning new systems. Experienced in meeting deadlines, finding unique solutions to problems, and presenting insights professionally.
+
+### Skills
+* Advanced in Python statistics and visualization libraries (NumPy, pandas, Matplotlib, and Seaborn), database management, and SQL
+* Proficient in descriptive and inferential statistics, HTML, CSS, JavaScript, accounting and bookkeeping (QuickBooks, data entry, A/R)
+
 ### Education
 **Udacity** - *Data Analyst Nanodegree*</br>
 MAY 2019 - NOVEMBER 2019</br>
@@ -18,6 +23,7 @@ FEBRUARY 2019 - MAY 2019</br>
 NOVEMBER 2018 - FEBRUARY 2019</br>
 **Chapman University, Orange, CA** - *Political Science, Economics, BA - 3.9 GPA*</br>
 AUGUST 2012 - MAY 2014
+
 ### Experience
 **Udacity Data Science Course Projects** - *Student*</br>
 MAY 2019 - NOVEMBER 2019
@@ -45,7 +51,3 @@ MAY 2012 - NOVEMBER 2012
 * Analyzed and optimized data database of district voter info with limited budget, saving campaign over $10,000 directly
 * Integrated database with voter outreach system in SPSS, saving campaign over $2,000 per mail piece
 * Led and organized 10-25 volunteers and interns daily while overseeing operations of primary campaign office
-
-### Skills
-* Advanced in Python statistics and visualization libraries (NumPy, pandas, Matplotlib, and Seaborn), database management, and SQL
-* Proficient in descriptive and inferential statistics, HTML, CSS, JavaScript, accounting and bookkeeping (QuickBooks, data entry, A/R)
