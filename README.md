@@ -35,9 +35,9 @@ DEC 2013 - AUG 2014
 * Precisely and efficiently processed orders and invoices using QuickBooks
 * Trained new employees in data entry process and software
 
-**Sukhee Kang for Congress Campaign, Irvine, CA** - *Office Manager*</br>
+**Sukhee Kang for Congress Campaign, Irvine, CA** - *Head of Research Coordination*</br>
 MAY 2012 - NOV 2012
-* Progressed from internship to Head of Research Coordination and finally to Office Manager position due to work ethic and problem solving abilities
+* Progressed from internship to Head of Research Coordination/Office Manager due to work ethic and problem solving abilities
 * Analyzed and optimized data database of district voter info with limited budget, saving campaign over $10,000 directly
 * Integrated database with voter outreach system in SPSS, saving campaign over $2,000 per mail piece
 * Led and organized 10-25 volunteers and interns daily while overseeing operations of primary campaign office
