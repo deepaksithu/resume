@@ -12,7 +12,7 @@ Enthusiastic data analyst graduate eager to contribute to team success through h
 
 ### Skills
 * Advanced in Python statistics and visualization libraries (NumPy, pandas, Matplotlib, and Seaborn), database management, and SQL
-* Proficient in descriptive and inferential statistics, HTML, CSS, JavaScript, accounting and bookkeeping (QuickBooks, Data Entry, A/R)
+* Proficient in descriptive and inferential statistics, HTML, CSS, JavaScript, accounting and bookkeeping (QuickBooks, data entry, A/R)
 
 ### Experience
 **Udacity Data Science Course Projects** - *Student*</br>
