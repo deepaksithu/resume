@@ -1,6 +1,6 @@
 
 # Deepak Sithu
-## Junior Data Analyst
+## Data Analyst
 Irvine, CA 92620</br>
 (909) 520-1695</br>
 deepaksithu@gmail.com</br>
@@ -8,16 +8,17 @@ linkedin.com/in/deepaksithu</br>
 github.com/deepaksithu</br>
 
 ### Objective
-Enthusiastic data analyst graduate eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. Passionate about working with data and learning new systems. Experienced in meeting deadlines, finding unique solutions to problems, and presenting insights professionally.
+Enthusiastic data analyst graduate, passionate about working with data and learning new systems. Eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. Experienced in meeting deadlines, finding unique solutions to problems, and presenting insights professionally.
 
 ### Skills
-* Advanced in Python statistics and visualization libraries (NumPy, pandas, Matplotlib, and Seaborn), database management, and SQL
-* Proficient in descriptive and inferential statistics, HTML, CSS, JavaScript, accounting and bookkeeping (QuickBooks, data entry, A/R)
+* Advanced in Python statistics and visualization libraries (NumPy, pandas, Matplotlib, and Seaborn), Microsoft Office, database management, and SQL
+* Proficient in descriptive and inferential statistics, Tableau, HTML, CSS, JavaScript, and accounting and bookkeeping (QuickBooks, data entry, A/R)
+* BSA Eagle Scout, Taekwondo Third Degree Black Belt (Instructor)
 
 ### Experience
 **Udacity Data Science Course Projects** - *Student*</br>
 MAY 2019 - NOV 2019
-* Analyze A/B Test Results Project - statistical analysis including probability, a/b testing, and regressions using the NumPy, pandas, Matplotlib, StatsModels, and SciPy libraries
+* Analyze A/B Test Results Project - statistical analysis including probability, A/B testing, and regressions using the NumPy, pandas, Matplotlib, StatsModels, and SciPy libraries
 * Communicate Data Findings Project - large dataset is cleaned and then relationships between variables are analyzed using univariate, bivariate, and multivariate visualization techniques
 * Twitter Archive Analysis Project - several datasets are gathered, cleaned, and analyzed, making use of the Twitter API
 
